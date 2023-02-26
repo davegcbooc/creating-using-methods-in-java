@@ -1,0 +1,12 @@
+*Create a method to calculate position will accept the score and return the position:
+   if score >= 1000 position = 1
+      score < 1000 and >= 500 position = 2
+      score > 100 and <500 position = 3
+   else position is 4
+
+*another method to accept Player Name and Position and display name and its position
+ 
+ Sample display=> john smith -  1
+                 => Terry  homes -  4
+                => larry lakes - 4
+                => susan terr -  2
